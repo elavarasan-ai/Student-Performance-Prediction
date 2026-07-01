@@ -160,17 +160,19 @@ and run all cells.
 
 ---
 
-# 📷 Project Output
+## 📷 Project Screenshots
 
-Add screenshots here after uploading images.
+### Actual vs Predicted
 
-Example:
+![Actual vs Predicted](actual_vs_predicted.png)
 
-```markdown
-![Actual vs Predicted](images/actual_vs_predicted.png)
+### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
-```
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Residual Plot
+
+![Residual Plot](residual.png)
 
 ---
 
