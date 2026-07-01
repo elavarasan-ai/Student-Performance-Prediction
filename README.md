@@ -135,7 +135,7 @@ Student-Performance-Prediction/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Student-Performance-Prediction.git
+git clone https://github.com/elavarasan-ai/Student-Performance-Prediction.git
 ```
 
 ### Install Required Libraries
